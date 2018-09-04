@@ -12,9 +12,9 @@ OpenCV
 npm [Installation Guide](https://websiteforstudents.com/install-the-latest-node-js-and-nmp-packages-on-ubuntu-16-04-18-04-lts/)  
 
 ### How to run:  
-[`https://github.com/rashi-sahu/Recommendation-of-Jewellery.git`]  
+`git clone https://github.com/rashi-sahu/Recommendation-of-Jewellery.git`
 Run the following command:  
-[`python3 manage.py runserver']
+`python3 manage.py runserver`
 
 
 
